@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 export default function Campaigns() {
   return (
     <main className="flex flex-col items-center justify-center gap-4">
@@ -7,6 +8,8 @@ export default function Campaigns() {
   )
 }
 =======
+=======
+>>>>>>> Stashed changes
 import React, { useState } from 'react';
 import avatarImage from '../../res/golub.webp';
 
